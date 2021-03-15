@@ -1,0 +1,85 @@
+manufacturer: CORNING
+model:  CCH-CP24-AE
+slug:  CCH-CP24-AE
+part_number:  CCH-CP24-AE
+u_height: 1
+is_full_depth: false
+comments: 'Closet Connector Housing (CCH) Panel, LC Adapters  Duplex Shuttered, UPC, 24 F, Single-mode (OS2)'
+subdevice_role: child
+front-ports:
+  - name: 1-2
+    type: lc
+    rear_port: lc1-2
+  - name: 3-4
+    type: lc
+    rear_port: ls3-4
+  - name: 5-6
+    type: lc
+    rear_port: lc5-6
+  - name: 7-8
+    type: lc
+    rear_port: lc7-8
+  - name: 9-10
+    type: lc
+    rear_port: lc9-10
+  - name: 11-12
+    type: lc
+    rear_port: lc11-12
+  - name: 13-14
+    type: lc
+    rear_port: lc13-14
+  - name: 15-16
+    type: lc
+    rear_port: lc15-16
+  - name: 17-18
+    type: lc
+    rear_port: lc17-18
+  - name: 19-20
+    type: lc
+    rear_port: lc19-20
+  - name: 21-22
+    type: lc
+    rear_port: lc21-22
+  - name: 23-24
+    type: lc
+    rear_port: lc23-24
+
+back-ports:
+  - name: lc1-2
+    type: lc
+    positions: 1
+  - name: lc3-4
+    type: lc
+    positions: 1
+  - name: lc5-6
+    type: lc
+    positions: 1
+  - name: lc7-8
+    type: lc
+    positions: 1
+  - name: lc9-10
+    type: lc
+    positions: 1
+  - name: lc11-12
+    type: lc
+    positions: 1
+  - name: lc13-14
+    type: lc
+    positions: 1
+  - name: lc15-16
+    type: lc
+    positions: 1
+  - name: lc17-18
+    type: lc
+    positions: 1
+  - name: lc19-20
+    type: lc
+    positions: 1
+  - name: lc21-22
+    type: lc
+    positions: 1
+  - name: lc23-24
+    type: lc
+    positions: 1
+
+
