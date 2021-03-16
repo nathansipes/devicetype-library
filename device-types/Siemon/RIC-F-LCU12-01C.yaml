@@ -1,0 +1,49 @@
+manufacturer: CORNING
+model: RIC-F-LCU12-01C
+slug: RIC-F-LCU12-01C
+part_number: RIC-F-LCU12-01C
+u_height: 1
+is_full_depth: false
+comments: '3 quad LC adapters (12 fibers), aqua adapter'
+subdevice_role: child
+front-ports:
+  - name: 1-2
+    type: lc
+    rear_port: lc1-2
+  - name: 3-4
+    type: lc
+    rear_port: lc3-4
+  - name: 5-6
+    type: lc
+    rear_port: lc5-6
+  - name: 7-8
+    type: lc
+    rear_port: lc7-8
+  - name: 9-10
+    type: lc
+    rear_port: lc9-10
+  - name: 11-12
+    type: lc
+    rear_port: lc11-12
+
+rear-ports:
+  - name: lc1-2
+    type: lc
+    positions: 1
+  - name: lc3-4
+    type: lc
+    positions: 1
+  - name: lc5-6
+    type: lc
+    positions: 1
+  - name: lc7-8
+    type: lc
+    positions: 1
+  - name: lc9-10
+    type: lc
+    positions: 1
+  - name: lc11-12
+    type: lc
+    positions: 1
+
+
