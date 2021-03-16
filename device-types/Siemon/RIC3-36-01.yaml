@@ -1,0 +1,15 @@
+manufacturer: Siemon
+model: RIC3-36-01
+slug: RIC3-36-01
+part_number: RIC3-36-01
+u_height: 2
+is_full_depth: false
+comments: '36- to 144-fiber (up to 576 fibers with MTP adapter plates) Rack Mount Interconnect Center, accepts (6) Quick-Pack adapter plates, 2U, black'
+subdevice_role: parent
+device-bays:
+  - name: slotA
+  - name: slotB
+  - name: slotC
+  - name: slotD
+  - name: slotE
+  - name: slotF
