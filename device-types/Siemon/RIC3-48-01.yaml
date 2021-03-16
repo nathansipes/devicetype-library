@@ -1,10 +1,11 @@
+---
 manufacturer: Siemon
 model: RIC3-48-01
 slug: RIC3-48-01
 part_number: RIC3-48-01
 u_height: 3
 is_full_depth: false
-comments: '48- to 192-fiber (up to 768 fibers with MTP adapter plates)  Rack Mount Interconnect Center, accepts (8) Quick-Pack adapter plates, 3U , black'
+comments: 48- to 192-fiber (up to 768 fibers with MTP adapter plates)  Rack Mount Interconnect Center, accepts (8) Quick-Pack adapter plates, 3U , black
 subdevice_role: parent
 device-bays:
   - name: slotA
@@ -14,4 +15,4 @@ device-bays:
   - name: slotE
   - name: slotF
   - name: slotG
-  - name: slotH  
+  - name: slotH

@@ -1,10 +1,11 @@
+---
 manufacturer: CORNING
-model:  CCH-CP24-AE
-slug:  CCH-CP24-AE
-part_number:  CCH-CP24-AE
+model: CCH-CP24-AE
+slug: CCH-CP24-AE
+part_number: CCH-CP24-AE
 u_height: 0
 is_full_depth: false
-comments: 'Closet Connector Housing (CCH) Panel, LC Adapters  Duplex Shuttered, UPC, 24 F, Single-mode (OS2)'
+comments: Closet Connector Housing (CCH) Panel, LC Adapters  Duplex Shuttered, UPC, 24 F, Single-mode (OS2)
 subdevice_role: child
 front-ports:
   - name: 1-2
@@ -81,5 +82,3 @@ back-ports:
   - name: lc23-24
     type: lc
     positions: 1
-
-

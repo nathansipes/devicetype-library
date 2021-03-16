@@ -1,10 +1,11 @@
+---
 manufacturer: Siemon
 model: RIC-F-LCU12-01C
 slug: RIC-F-LCU12-01C
 part_number: RIC-F-LCU12-01C
 u_height: 0
 is_full_depth: false
-comments: '3 quad LC adapters (12 fibers), aqua adapter'
+comments: 3 quad LC adapters (12 fibers), aqua adapter
 subdevice_role: child
 front-ports:
   - name: 1-2
@@ -45,5 +46,3 @@ rear-ports:
   - name: lc11-12
     type: lc
     positions: 1
-
-

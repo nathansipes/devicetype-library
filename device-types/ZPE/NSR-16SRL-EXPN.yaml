@@ -1,10 +1,11 @@
+---
 manufacturer: ZPE
 model: NSR-16SRL-EXPN
 slug: NSR-16SRL-EXPN
 part_number: NSR-16SRL-EXPN
 u_height: 0
 is_full_depth: false
-comments: 'NSR 16-Port RJ45 Serial Rolled (Cisco) Expansion Card'
+comments: NSR 16-Port RJ45 Serial Rolled (Cisco) Expansion Card
 subdevice_role: child
 console-server-port:
   - name: Port 1
@@ -39,6 +40,3 @@ console-server-port:
     type: rj-45
   - name: Port 16
     type: rj-45
-
-
-

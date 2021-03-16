@@ -1,10 +1,11 @@
+---
 manufacturer: Siemon
 model: RIC3-24-01
 slug: RIC3-24-01
 part_number: RIC3-24-01
 u_height: 2
 is_full_depth: false
-comments: '24- to 96-fiber (384 fibers with MTP adapter plates) Rack Mount Interconnect Center, accepts (4) Quick-Pack adapter plates, 2U, black'
+comments: 24- to 96-fiber (384 fibers with MTP adapter plates) Rack Mount Interconnect Center, accepts (4) Quick-Pack adapter plates, 2U, black
 subdevice_role: parent
 device-bays:
   - name: slotA
