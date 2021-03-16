@@ -1,9 +1,10 @@
+---
 manufacturer: Cisco
 model: Nexus 9372PX-E
 part_number: N9K-C9372PX-E
 slug: n9k-C9372px-e
 u_height: 1
-is_full_depth: true
+is_full_depth: false
 console-ports:
   - name: console
     type: rj-45
@@ -86,7 +87,7 @@ interfaces:
   - name: Ethernet1/32
     type: 10gbase-x-sfpp
   - name: Ethernet1/33
-    type: 10gbase-x-sfpp    
+    type: 10gbase-x-sfpp
   - name: Ethernet1/34
     type: 10gbase-x-sfpp
   - name: Ethernet1/35

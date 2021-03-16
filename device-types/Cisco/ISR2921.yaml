@@ -1,3 +1,4 @@
+---
 manufacturer: Cisco
 model: ISR2921
 part_number: ISR2921/K9
@@ -5,11 +6,11 @@ slug: isr2921
 u_height: 2
 is_full_depth: true
 interfaces:
-  - name: GigabitEthernet0/0/0
+  - name: GigabitEthernet0/0
     type: 1000base-t
-  - name: GigabitEthernet0/0/1
+  - name: GigabitEthernet0/1
     type: 1000base-t
-  - name: GigabitEthernet0/0/2
+  - name: GigabitEthernet0/2
     type: 1000base-t
 console-ports:
   - name: con 0

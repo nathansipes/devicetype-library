@@ -1,7 +1,7 @@
 manufacturer: ZPE
-model: NSC-T16R-STND-DAC
-slug: NSC-T16R-STND-DAC
-part_number: NSC-T16R-STND-DAC
+model: NSR-TOP1-DAC
+slug: NSR-TOP1-DAC
+part_number: NSR-TOP1-DAC
 u_height: 1
 is_full_depth: false
 comments: 'NSR Chassis, Dual AC, 8-Core Intel CPU, Backplane Switch, 8GB DDR4,32GB MSATA, 5 Slots, 2 SFP+, 2 USB 2.0, 1 USB 3.0, 2 GbE, 1 HDMI, 1 console'
@@ -18,9 +18,9 @@ device-bays:
 
 interfaces:
   - name: eth0
-    type: rj-45
+    type: 1000base-t
   - name: eth1
-    type: rj-45
+    type: 1000base-t
   - name: sfp0
     type: 1000base-x-sfp
   - name: sfp1

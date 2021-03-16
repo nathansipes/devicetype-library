@@ -11,12 +11,3 @@ interface:
     type: lte
   - name: lte-b
     type: lte
-
-power-ports:
-  - name: PSU1
-    type: iec-60320-c14
-    allocated_draw: 30
-  - name: PSU2
-    type: iec-60320-c14
-    allocated_draw: 30
-
