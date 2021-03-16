@@ -2,7 +2,7 @@ manufacturer: CORNING
 model: CCH-UM24-04-89G
 slug: CCH-UM24-04-89G
 part_number: CCH-UM24-04-89G
-u_height: 1
+u_height: 0
 is_full_depth: false
 comments: 'Plug & Play™ Universal Module  24 F, Shuttered LC to MTP®, Single-mode (OS2)'
 subdevice_role: child

@@ -2,7 +2,7 @@ manufacturer: ZPE
 model: NSR-16SFP-EXPN
 slug: NSR-16SFP-EXPN
 part_number: NSR-16SFP-EXPN
-u_height: 1
+u_height: 0
 is_full_depth: false
 comments: 'NSR 16-Port 1G SFP Expansion Card'
 subdevice_role: child
